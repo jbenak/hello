@@ -1,2 +1,1 @@
-# hello
-Hello World Design | Public Git
+# Hello World Design Public Git
